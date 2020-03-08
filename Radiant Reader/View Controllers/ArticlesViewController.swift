@@ -47,6 +47,8 @@ class ArticlesViewController: UIViewController {
 
         self.navigationItem.rightBarButtonItem = UIBarButtonItem(image: UIImage(systemName: "heart.circle.fill"), style: .plain, target: self, action: #selector(presentFavoritesViewController))
 
+        self.navigationItem.rightBarButtonItem?.tintColor = UIColor.systemPink
+
         self.viewModel.fetchAllArticles()
             .receive(on: DispatchQueue.main)
             .sink(
@@ -54,6 +56,9 @@ class ArticlesViewController: UIViewController {
                 receiveValue: { articles in
                     self.viewModel.articles = articles
                     self.tableView.reloadData()
+
+                    let animation = TableViewAnimation.Cell.fade(duration: 1.0)
+                    self.tableView.animate(animation: animation)
             })
             .store(in: &subscriptions)
     }
@@ -103,6 +108,9 @@ private extension ArticlesViewController {
         self.view.addSubview(self.confettiView)
 
         self.setupConstraints()
+
+        self.tableView.separatorColor = UIColor.clear
+        self.tableView.tableFooterView = UIView()
     }
 
     func setupConstraints() {
@@ -141,6 +149,10 @@ private extension ArticlesViewController {
 
     func presentSafariViewController(for article: Article) {
         let safariViewController = SFSafariViewController(url: article.url)
+
+        safariViewController.preferredBarTintColor = article.primaryColor
+        safariViewController.preferredControlTintColor = UIColor.white
+
         self.present(safariViewController, animated: true, completion: nil)
     }
 
@@ -150,13 +162,20 @@ private extension ArticlesViewController {
         alertController.addAction(
             UIAlertAction(title: "Favorite this article", style: .default, handler: { action in
                 self.viewModel.favoriteArticle(article)
+
+                self.animateFavoriteButton(with: .scaleUp)
+
+                self.displayConfetti()
             })
         )
 
         alertController.addAction(
-            UIAlertAction(title: "Cancel", style: .cancel, handler: nil)
+            UIAlertAction(title: "Cancel", style: .cancel, handler: { _ in
+                self.animateFavoriteButton(with: .fadeIn)
+            })
         )
 
+        self.animateFavoriteButton(with: .fadeOut)
         self.present(alertController, animated: true, completion: nil)
     }
 

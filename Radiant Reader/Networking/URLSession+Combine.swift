@@ -44,25 +44,26 @@ extension URLSession {
         case failedToLoadLocalContent
     }
 
+    // Fake delay to simulate network activity
+    func fetchLocalArticlesWithDelay(from source: Article.SupportedSource) -> AnyPublisher<ArticlesResponse, Error> {
+        return self.fetchLocalArticles(from: source)
+            .delay(for: .milliseconds(400), scheduler: RunLoop.main) // Fake delay to simulate network activity
+            .eraseToAnyPublisher()
+    }
+
     func fetchLocalArticles(from source: Article.SupportedSource) -> AnyPublisher<ArticlesResponse, Error> {
-        return Future<ArticlesResponse, Error> { promise in
-            guard let url = Bundle.main.url(forResource: source.filename, withExtension: "json") else {
-                promise(.failure(JSONParsingError.failedToLoadLocalContent))
-                return
-            }
-
-            do {
-                let data = try Data(contentsOf: url)
-                let decoder = JSONDecoder()
-                decoder.dateDecodingStrategy = .iso8601
-                let articleData = try decoder.decode(ArticlesResponse.self, from: data)
-
-                promise(.success(articleData))
-            } catch {
-                promise(.failure(error))
-            }
+        guard let url = Bundle.main.url(forResource: source.filename, withExtension: "json") else {
+            return Fail(error: JSONParsingError.failedToLoadLocalContent)
+                .eraseToAnyPublisher()
         }
-        .delay(for: .milliseconds(400), scheduler: RunLoop.main) // Fake delay to simulate network activity
+
+        return Result<ArticlesResponse, Error> {
+            let data = try Data(contentsOf: url)
+            let decoder = JSONDecoder()
+            decoder.dateDecodingStrategy = .iso8601
+            return try decoder.decode(ArticlesResponse.self, from: data)
+        }
+        .publisher
         .eraseToAnyPublisher()
     }
 

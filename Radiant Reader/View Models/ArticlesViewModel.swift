@@ -7,7 +7,7 @@ final class ArticlesViewModel: NSObject {
 
     var articles: [Article]
 
-    var usesArticleStyle = false
+    var usesArticleStyle = true
 
     init(articles: [Article]) {
         self.articles = articles

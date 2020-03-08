@@ -30,6 +30,11 @@ final class ArticleTableViewCell: UITableViewCell {
     let sourceLabel: UILabel = {
         let label = PaddingLabel()
 
+        label.padding = UIEdgeInsets(top: 2.0, left: 4.0, bottom: 2.0, right: 4.0)
+        label.textColor = UIColor.label
+        label.layer.cornerRadius = 4.0
+        label.clipsToBounds = true
+
         return label
     }()
 
@@ -90,6 +95,13 @@ extension ArticleTableViewCell {
 
         self.titleLabel.text = viewModel.titleText
         self.descriptionLabel.text = viewModel.descriptionText
+
+        self.sourceLabel.textColor = UIColor.white
+
+        self.sourceLabel.backgroundColor = viewModel.tintColor
+        self.sourceLabel.layer.shadowColor = viewModel.tintColor.cgColor
+        self.sourceLabel.layer.shadowOpacity = 0.4
+        self.sourceLabel.layer.shadowOffset = CGSize(width: 0.0, height: 0.5)
     }
 
 }
@@ -118,6 +130,16 @@ private extension ArticleTableViewCell {
         self.addGestureRecognizer(longPressGestureRecognizer)
 
         self.setupConstraints()
+
+        self.titleLabel.font = UIFont.Semantic.titleFont
+        self.sourceLabel.font = UIFont.Semantic.sourceFont
+        self.descriptionLabel.font = UIFont.Semantic.descriptionFont
+
+        self.authorLabel.font = UIFont.Semantic.metadataFont
+        self.authorLabel.textColor = UIColor.secondaryLabel
+
+        self.metadataLabel.font = UIFont.Semantic.metadataFont
+        self.metadataLabel.textColor = UIColor.secondaryLabel
     }
 
     func setupConstraints() {
