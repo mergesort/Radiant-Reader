@@ -1,0 +1,125 @@
+{
+	"status": "ok",
+	"totalResults": 10,
+	"articles": [{
+		"source": {
+			"id": "nbc-news",
+			"name": "NBC News"
+		},
+		"author": "Suzanne Gamboa",
+		"title": "Which Democratic candidate will win the Latino vote? Nevada is the first test.",
+		"description": "Early voting has started in Nevada, and Latinos' preferences are likely to be a big factor in which of the Democrats win crucial votes.",
+		"url": "https://www.nbcnews.com/news/latino/which-democratic-candidate-will-win-latino-vote-nevada-first-test-n1137581",
+		"urlToImage": "https://media4.s-nbcnews.com/j/newscms/2020_07/3231826/200214-jose-ramirez-sanders-nevada-sg-1145a_b58a825986981597242e887453edf08b.nbcnews-fp-1200-630.jpg",
+		"publishedAt": "2020-02-10T13:21:42Z",
+		"content": "LAS VEGAS José Ramirez used to go door to door preaching the word as a Jehovah's Witness. Now he's knocking on the doors of Latinos as a Bernie Sanders evangelist.\r\nIt's his second time working on Sanders' campaigns, and he has stepped up his game, from calli… [+7470 chars]"
+	}, {
+		"source": {
+			"id": "nbc-news",
+			"name": "NBC News"
+		},
+		"author": "Julie Compton",
+		"title": "LGBTQ Tennesseans are 'saddened,' 'disappointed' by new adoption law",
+		"description": "While champions of the law say it’s about religious freedom, opponents say it makes the state’s gay residents “second-class citizens.”",
+		"url": "https://www.nbcnews.com/feature/nbc-out/lgbtq-tennesseans-are-saddened-disappointed-new-adoption-law-n1137086",
+		"urlToImage": "https://media2.s-nbcnews.com/j/newscms/2020_07/3231081/200214-amber-rachel-stanton-family-ew-217p_f0a09bebde5aca1ec76c1a6db5f53dea.nbcnews-fp-1200-630.jpg",
+		"publishedAt": "2020-02-11T12:00:26Z",
+		"content": "In March 2018, Amber Stanton, 38, received a call from her doctors office that would change her life: A pregnant transgender teenager was looking for an LGBTQ couple to adopt his baby. Would Stanton and her wife, Rachel, be willing to take the child in?\r\nThe … [+12924 chars]"
+	}, {
+		"source": {
+			"id": "nbc-news",
+			"name": "NBC News"
+		},
+		"author": "Peter King",
+		"title": "FMIA: Ten Educated Guesses On All The 2020 Offseason QB Movement",
+		"description": "The 2020 offseason is setting up to be a memorable one because of all the marquee quarterback movement. Peter King opens his Football Morning in America column by making 10 educated guesses on where some of the game's biggest names will end up. Also in the co…",
+		"url": "https://profootballtalk.nbcsports.com/2020/02/17/tom-brady-philip-rivers-nfl-qbs-fmia-peter-king/#the-lead-qb-puzzle",
+		"urlToImage": "https://nbcprofootballtalk.files.wordpress.com/2020/02/qbfour.jpg?w=1200",
+		"publishedAt": "2020-02-12T12:00:00Z",
+		"content": "Has there ever been a year with so many quarterback questions? one NFL head coach asked me Friday.\r\nNot that I know of, I said.\r\nWhats really weird, this coach said, is I dont think we know where any of em are going.\r\nThats the crazy part. Ten significant qua… [+46572 chars]"
+	}, {
+		"source": {
+			"id": "nbc-news",
+			"name": "NBC News"
+		},
+		"author": "Heidi Przybyla",
+		"title": "Sanders' opposition to the Iraq War was more complicated than he presents",
+		"description": "Bernie Sanders has cast his opposition to the Iraq War as near-absolute, but a close review of the record at the time shows it's more complicated than it seems.",
+		"url": "https://www.nbcnews.com/politics/2020-election/sanders-opposition-iraq-war-was-more-complicated-he-presents-n1137541",
+		"urlToImage": "https://media1.s-nbcnews.com/j/newscms/2020_07/3232596/200216-bernie-sanders-cs-100p_db67c2d5b24a11244bea20427ba19f26.nbcnews-fp-1200-630.jpg",
+		"publishedAt": "2020-02-13T10:36:39Z",
+		"content": "WASHINGTON Sen. Bernie Sanders, I-Vt., has for years cast his opposition to the Iraq War as near-absolute, insisting he knew the Bush administration was \"lying\" from the start about the threat to the U.S. posed by Saddam Hussein and his regime's alleged produ… [+8123 chars]"
+	}, {
+		"source": {
+			"id": "nbc-news",
+			"name": "NBC News"
+		},
+		"author": "Allan Smith",
+		"title": "These prosecutors want radical criminal justice change. Barr is fighting to stop them.",
+		"description": "Progressive prosecutors are putting in place radical changes to the criminal justice system. President Donald Trump and Attorney General William Barr are trying to stop them.",
+		"url": "https://www.nbcnews.com/politics/justice-department/these-prosecutors-want-radical-criminal-justice-change-barr-fighting-stop-n1126986",
+		"urlToImage": "https://media3.s-nbcnews.com/j/newscms/2020_07/3231446/200214-william-barr-national-sheriffs-association-se-612p_00c73e2b396cd328b55f4e1969bc4fb9.nbcnews-fp-1200-630.jpg",
+		"publishedAt": "2020-02-14T10:00:21Z",
+		"content": "Progressive prosecutors, coming off one of the biggest years in their movement's short history, are looking to 2020 with hope of winning key district attorney offices around the nation and boosting their influence with an overhaul of the system from within.\r\n… [+5985 chars]"
+	}, {
+		"source": {
+			"id": "nbc-news",
+			"name": "NBC News"
+		},
+		"author": "Yuliya Talmazan, Kurt Chirbas",
+		"title": "14 Americans test positive for coronavirus after evacuation from quarantined cruise ship",
+		"description": "Fourteen Americans who were among the hundreds evacuated from a quarantined cruise ship in Japan Sunday have tested positive for novel coronavirus.",
+		"url": "https://www.nbcnews.com/news/world/14-americans-test-positive-coronavirus-after-evacuation-quarantined-cruise-ship-n1137616",
+		"urlToImage": "https://media2.s-nbcnews.com/j/newscms/2020_08/3232781/japan_china_outbreak_virus_ship_02724-jpg-77c20_b27f01de44355edbcc3c84687a06b1e9.nbcnews-fp-1200-630.jpg",
+		"publishedAt": "2020-02-15T09:54:00Z",
+		"content": "Fourteen Americans who were among the hundreds evacuated from a quarantined cruise ship off Yokohama, Japan Sunday have tested positive for the novel coronavirus that has claimed more than 1,700 lives in a growing outbreak in China.\r\nMore than 300 U.S. citize… [+3084 chars]"
+	}, {
+		"source": {
+			"id": "nbc-news",
+			"name": "NBC News"
+		},
+		"author": "Ben Kesslen, Ludwig Hurtado",
+		"title": "'Do we care about the public?': Cities weigh free public transit amid rising costs",
+		"description": "Boston and Kansas City, Missouri, want to make public transit free, eliminating fares for all. Would it solve their public transportation crises?",
+		"url": "https://www.nbcnews.com/news/us-news/do-we-care-about-public-cities-weigh-free-public-transit-n1137561",
+		"urlToImage": "https://media3.s-nbcnews.com/j/newscms/2020_07/3230956/200214-boston-orange-line-se-1245p_a1614bd5468c8da71798802d8394192b.nbcnews-fp-1200-630.jpg",
+		"publishedAt": "2020-02-16T09:30:47Z",
+		"content": "Michelle Wu, a City Council member in Boston, wants everyone to ride for free on subways and buses that crisscross the region.\r\nWu says the city is experiencing a \"transportation crisis\" as ridership declines, rush-hour traffic rises and the infrastructure of… [+9224 chars]"
+	}, {
+		"source": {
+			"id": "nbc-news",
+			"name": "NBC News"
+		},
+		"author": "Caira Conner",
+		"title": "Jameela Jamil Munchausen conspiracy theories ignore the challenges of chronic illnesses",
+		"description": "Jameela Jamil Munchausen conspiracy theories ignore the challenges of chronic illnesses",
+		"url": "https://www.nbcnews.com/think/opinion/jameela-jamil-munchausen-conspiracy-theories-ignore-challenges-chronic-illnesses-ncna1137566",
+		"urlToImage": "https://media4.s-nbcnews.com/j/newscms/2020_07/3232686/200216-jameela-jamil-cs-435p_1891760bbc5c2b4350301848ad7614b1.nbcnews-fp-1200-630.jpg",
+		"publishedAt": "2020-02-19T09:30:45Z",
+		"content": "In late February 2019, I posted a picture of me standing in a hospital bathroom, wearing a patterned gown and an opened-mouth grin, on Instagram. A tube of Sensi-Care Protective Barrier cream (look it up) is visible on the shelf. The photograph's caption cont… [+7120 chars]"
+	}, {
+		"source": {
+			"id": "nbc-news",
+			"name": "NBC News"
+		},
+		"author": "Jason Abbruzzese, Kalhan Rosenblatt",
+		"title": "Fast-and-loose culture of esports is upending once staid world of chess",
+		"description": "Grandmasters and upstarts are reinventing the game online and in livestreams, becoming its most visible ambassadors and arguably its first entertainers.",
+		"url": "https://www.nbcnews.com/tech/video-games/fast-loose-culture-esports-upending-once-staid-world-chess-n1137111",
+		"urlToImage": "https://media3.s-nbcnews.com/j/newscms/2020_07/3230996/200214-alexandra-botez-chess-streaming-se-127p_995aa3ff3c73b94c0dbf139074a4f34f.nbcnews-fp-1200-630.jpg",
+		"publishedAt": "2020-02-09T09:30:00Z",
+		"content": "Alexandra Botez was sitting in her apartment on a recent Friday in front of three computer monitors, a webcam and a microphone and losing at chess.\r\nThis is not looking good, but this guy is not very fast, Botez said. Hes not good or fast, so hopefully were g… [+11041 chars]"
+	}, {
+		"source": {
+			"id": "nbc-news",
+			"name": "NBC News"
+		},
+		"author": "Sahil Kapur, Ali Vitali",
+		"title": "Elizabeth Warren doubles down on a surprisingly risky pitch: Democratic unity",
+		"description": "After losing Iowa and New Hampshire, Elizabeth Warren faces questions about the viability of her pitch to unify moderates and liberals.",
+		"url": "https://www.nbcnews.com/politics/2020-election/elizabeth-warren-doubles-down-surprisingly-risky-pitch-democratic-unity-n1137171",
+		"urlToImage": "https://media4.s-nbcnews.com/j/newscms/2020_07/3232141/20215-elizabeth-warren-mn-1407_55257fbaacc4af41306bccb92b20cd7d.nbcnews-fp-1200-630.jpg",
+		"publishedAt": "2020-02-08T10:00:00Z",
+		"content": "WASHINGTON Beto O'Rourke tried it. Kamala Harris tried it. Cory Booker tried it. And one by one, they all flamed out. Now, Elizabeth Warren is pitching herself as the Democratic candidate who can unify the party's progressive and moderate wings, a play that c… [+7453 chars]"
+	}]
+}

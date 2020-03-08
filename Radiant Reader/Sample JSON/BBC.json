@@ -1,0 +1,125 @@
+{
+	"status": "ok",
+	"totalResults": 10,
+	"articles": [{
+		"source": {
+			"id": "bbc-news",
+			"name": "BBC News"
+		},
+		"author": "Graeme Ogston",
+		"title": "Detained for beards, veils and internet browsing",
+		"description": "New \"leak\" said to reveal \"strongest evidence yet\" of China's crackdown on religion in Xinjiang.",
+		"url": "http://www.bbc.co.uk/news/world-asia-china-51520622",
+		"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/DB58/production/_110925165_2be6942a-fa51-4e80-a262-465a1faf281d.png",
+		"publishedAt": "2020-02-09T16:04:05Z",
+		"content": "A document that appears to give the most powerful insight yet into how China determined the fate of hundreds of thousands of Muslims held in a network of internment camps has been seen by the BBC.\r\nListing the personal details of more than 3,000 individuals f… [+11512 chars]"
+	}, {
+		"source": {
+			"id": "bbc-news",
+			"name": "BBC News"
+		},
+		"author": "Jed Mercurio",
+		"title": "DJ and producer Andrew Weatherall dies",
+		"description": "The producer, who turned Primal Scream's Screamadelica into a hit, suffered a pulmonary embolism.",
+		"url": "http://www.bbc.co.uk/news/entertainment-arts-51535685",
+		"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/7245/production/_110935292_bestpicofweatherallgetty.jpg",
+		"publishedAt": "2020-02-08T15:27:21Z",
+		"content": "Image copyrightGetty ImagesImage caption\r\n The musician found fame as an acid house DJ and forged a stellar career as a producer\r\nAndrew Weatherall, one of the UK's most respected DJs and record producers, has died aged 56.\r\nThe musician, who was born in Wind… [+5402 chars]"
+	}, {
+		"source": {
+			"id": "bbc-news",
+			"name": "BBC News"
+		},
+		"author": "Danny Brockelmeir",
+		"title": "Thousands celebrate Japan's 'naked festival'",
+		"description": "Japanese men brave the cold in loin cloths for a festival marking the start of spring.",
+		"url": "http://www.bbc.co.uk/news/world-asia-51534696",
+		"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/17807/production/_110936269_p083p9nf.jpg",
+		"publishedAt": "2020-02-14T15:06:49Z",
+		"content": null
+	}, {
+		"source": {
+			"id": "bbc-news",
+			"name": "BBC News"
+		},
+		"author": "Sarah Phelps",
+		"title": "Australian firefighter's viral outburst at PM",
+		"description": "The man claims he was sacked for criticising Scott Morrison, but authorities have denied it.",
+		"url": "http://www.bbc.co.uk/news/world-australia-51527332",
+		"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/148A5/production/_110933148_p083nd94.jpg",
+		"publishedAt": "2020-02-13T11:42:36Z",
+		"content": null
+	}, {
+		"source": {
+			"id": "bbc-news",
+			"name": "BBC News"
+		},
+		"author": "Jed Mercurio",
+		"title": "Israeli soldiers in 'fake women' phone ruse",
+		"description": "Hamas militants hacked dozens of smartphones by posing as female admirers, Israel's military says.",
+		"url": "http://www.bbc.co.uk/news/world-middle-east-51530311",
+		"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0643/production/_110930610_selfieblur-1.jpg",
+		"publishedAt": "2020-02-12T10:47:59Z",
+		"content": "Image copyrightIDFImage caption\r\n One of the fake images purportedly used by Hamas hackers\r\nDozens of Israeli soldiers have had their smartphones hacked by the Hamas militant group posing as women seeking attention, Israel's military says.\r\nA spokesman said t… [+1794 chars]"
+	}, {
+		"source": {
+			"id": "bbc-news",
+			"name": "BBC News"
+		},
+		"author": "John Yorke",
+		"title": "Stars pay tribute to Queen of Katwe actress",
+		"description": "Nikita Pearl Waligwa had been diagnosed with a brain tumour and died in Uganda at the age of 15.",
+		"url": "http://www.bbc.co.uk/news/world-africa-51528522",
+		"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/24CE/production/_110922490_nikita.png",
+		"publishedAt": "2020-02-11T08:13:01Z",
+		"content": "Image copyrightDisneyImage caption\r\n Nikita Pearl Waligwa played Gloria, a friend of the protagonist Phiona, who explained the rules of chess\r\nStars of the film Queen of Katwe have paid tribute to actress Nikita Pearl Waligwa who has died at the age of 15. \r\n… [+1384 chars]"
+	}, {
+		"source": {
+			"id": "bbc-news",
+			"name": "BBC News"
+		},
+		"author": "BBC News Editorial Team",
+		"title": "HQ Trivia shuts down after 'running out of money'",
+		"description": "A buyout collapsed, leading to the app closing and a presenter paying for final game's $5 prize.",
+		"url": "http://www.bbc.co.uk/news/newsbeat-51528801",
+		"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/147B4/production/_110929838_hqtrivialead976.jpg",
+		"publishedAt": "2020-02-14T08:11:27Z",
+		"content": "Image copyrightGetty Images\r\nIt's 2018 and people are gathering around a phone to take part in the day's round of HQ Trivia, a real-time quiz app where players can win real cash.\r\nTwo years later, and HQ Trivia has gone bankrupt and shut down, its presenters … [+3021 chars]"
+	}, {
+		"source": {
+			"id": "bbc-news",
+			"name": "BBC News"
+		},
+		"author": "Sally Wainwright",
+		"title": "GM scraps historic Holden car brand in Australia",
+		"description": "The move comes as the US car giant retreats from more markets as it focuses on more profitable countries.",
+		"url": "http://www.bbc.co.uk/news/business-51499775",
+		"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3A7C/production/_110927941_gettyimages-175035206.jpg",
+		"publishedAt": "2020-02-17T06:22:56Z",
+		"content": "Image copyrightGetty Images\r\nGeneral Motors has said it will retire the iconic Australian car brand Holden as it leaves more markets.\r\nThe American car giant said it will wind down Holden sales, design and engineering operations in Australia and New Zealand b… [+2107 chars]"
+	}, {
+		"source": {
+			"id": "bbc-news",
+			"name": "BBC News"
+		},
+		"author": "Rebecca Jones",
+		"title": "The doctors and lawyers giving advice on TikTok",
+		"description": "The BBC meets the medics and lawyers across America who are using the app to help educate the public.",
+		"url": "http://www.bbc.co.uk/news/world-us-canada-51507802",
+		"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/BF10/production/_110921984_p083l209.jpg",
+		"publishedAt": "2020-02-18T00:01:05Z",
+		"content": null
+	}, {
+		"source": {
+			"id": "bbc-news",
+			"name": "BBC News"
+		},
+		"author": "James Aughtie",
+		"title": "Forty Americans from cruise ship have coronavirus",
+		"description": "They are among some 400 Americans being taken off the Diamond Princess quarantined in Japan.",
+		"url": "http://www.bbc.co.uk/news/world-asia-china-51524460",
+		"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/ACD2/production/_110924244_2e9f851f-855a-49cd-a930-3b5a781d28e2.jpg",
+		"publishedAt": "2020-02-04T17:28:48Z",
+		"content": "Image copyrightEPAImage caption\r\n There are around 3,400 on board the Diamond Princess\r\nForty Americans being taken off the quarantined cruise ship Diamond Princess are infected with new coronavirus, a US official says. \r\nThey are among 400 people from the US… [+4146 chars]"
+	}]
+}

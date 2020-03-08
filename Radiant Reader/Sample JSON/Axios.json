@@ -1,0 +1,125 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [{
+        "source": {
+            "id": "axios",
+            "name": "Axios"
+        },
+        "author": "Will Ripley",
+        "title": "White House confirms operation that killed al-Qaeda leader Qassim al-Rimi",
+        "description": "He was seen as a potential successor to the al-Qaeda chief.",
+        "url": "https://www.axios.com/al-qaeda-qassim-al-rimi-killed-counterterrorism-c0c89db3-4aa6-4ba4-a130-f5c083493ba3.html",
+        "urlToImage": "https://images.axios.com/Rfyx1-_caCo0Ii5RwHo_05cFOE0=/2020/02/06/1581033473164.jpg",
+        "publishedAt": "2020-02-07T00:16:35Z",
+        "content": "The White House confirmed in a statement on Thursday that an operation in Yemen killed Qassim al-Rimi, co-founder and leader of al-Qaeda in the Arabian Peninsula.\r\nWhy it matters:Reports of Rimi's death via an airstrike circulated last weekend, but President … [+881 chars]"
+    }, {
+        "source": {
+            "id": "axios",
+            "name": "Axios"
+        },
+        "author": "Thomas Kinkaid",
+        "title": "Warner Music Group files for IPO, again",
+        "description": "The company held $258 million in net income last September.",
+        "url": "https://www.axios.com/warner-music-group-ipo-e4f1fec8-8f14-4d95-b901-27c532e9e776.html",
+        "urlToImage": "https://images.axios.com/k9Vp1APTf9H_SUAeITHTmWvjGIE=/2020/02/06/1581031212570.jpg",
+        "publishedAt": "2020-02-09T23:52:22Z",
+        "content": "Warner Music Group, one of the largest companies in the global music industry, filed for an initial public offering on Thursday.\r\nDetails: The company's filings show it held $258 million in net income at the end of fiscal year 2019, and had $2.974 billion in … [+242 chars]"
+    }, {
+        "source": {
+            "id": "axios",
+            "name": "Axios"
+        },
+        "author": "Martha Thomas",
+        "title": "Syria's Idlib offensive forces civilians to flee, pits Turkey against Russia",
+        "description": "Turkey says eight of its troops were killed in the shelling.",
+        "url": "https://www.axios.com/idlib-syria-war-refugees-turkey-russia-8f4bdb1e-c2fa-484e-81d6-736961eeb171.html",
+        "urlToImage": "https://images.axios.com/igg3tUu2jD79LZvt8iDrbhnUgks=/2020/02/06/1581031745339.jpg",
+        "publishedAt": "2020-02-12T23:46:44Z",
+        "content": "Bashar al-Assads Russia-backed offensive on Syria's northwestern enclave of Idlib home to the last rebel-held areas has forced some 150,000 civilians to flee over the past two weeks and led to direct clashes with Turkey.\r\nWhy it matters: David Miliband, CEO o… [+1020 chars]"
+    }, {
+        "source": {
+            "id": "axios",
+            "name": "Axios"
+        },
+        "author": "Kelly Richardson",
+        "title": "Brazilian judge will not proceed with charges against Glenn Greenwald \"for now\"",
+        "description": "The cybercrime charges have prompted outcry from free press advocates.",
+        "url": "https://www.axios.com/glenn-greenwald-brazil-charges-40b0e7b3-eb73-475b-a6c0-9a2330014f5f.html",
+        "urlToImage": "https://images.axios.com/lHe6TPTlTarfqPs7xrsN8MBGdPQ=/2020/02/06/1581031902630.jpg",
+        "publishedAt": "2020-02-14T23:44:06Z",
+        "content": "Brazilian prosecutors charged American journalist Glenn Greenwald with cybercrimes on Tuesday for allegedly spreading cellphone messages \"that have embarrassed prosecutors and tarnished the image of an anti-corruption task force,\" the New York Times reports.\r… [+400 chars]"
+    }, {
+        "source": {
+            "id": "axios",
+            "name": "Axios"
+        },
+        "author": "Jameela James",
+        "title": "Uber's AB5-related changes haven't been great for California riders",
+        "description": "Prices and wait times have gone up for California passengers, said Uber's CEO.",
+        "url": "https://www.axios.com/uber-ab5-california-riders-14bcdf2d-1cd6-4d88-950b-48e4d7aa98e2.html",
+        "urlToImage": "https://images.axios.com/BSdJqJIC0ZXoKxJ3pdORtrLeuNk=/2020/02/06/1581031751157.jpg",
+        "publishedAt": "2020-02-06T23:36:38Z",
+        "content": "Prices and wait times have gone up for Uber passengers since the ride-hailing began making changes last month because of a new state law that makes it harder to classify workers as independent contractors, Uber CEO Dara Khorowshahi told analysts on Thursday. … [+1115 chars]"
+    }, {
+        "source": {
+            "id": "axios",
+            "name": "Axios"
+        },
+        "author": "Sarah Fowler",
+        "title": "YouTube evades Putin's media chokehold",
+        "description": "He controls TV, but that's not what young Russians are watching.",
+        "url": "https://www.axios.com/youtube-russia-putin-censorship-832d293f-41d0-4aaf-b51d-d606aaa40790.html",
+        "urlToImage": "https://images.axios.com/6GTNzgywyuMnPOskEUQ_BPtur4k=/2020/02/06/1581031665528.jpg",
+        "publishedAt": "2020-02-06T23:28:51Z",
+        "content": "Vladimir Putin has gone to extreme lengths to control the flow of information in Russia, but theres one step he hasnt dared take: shutting down YouTube.\r\nWhy it matters: One of Putins first initiatives upon taking office 20 years ago was to bring Russias inde… [+2603 chars]"
+    }, {
+        "source": {
+            "id": "axios",
+            "name": "Axios"
+        },
+        "author": "Axios",
+        "title": "Accused El Paso Walmart shooter faces federal hate crime charges",
+        "description": "The investigation found the man had written a manifesto against Hispanics.",
+        "url": "https://www.axios.com/walmart-el-paso-shooter-hate-crime-charged-4ee92367-6016-47a8-ad9f-4299460de76e.html",
+        "urlToImage": "https://images.axios.com/Evgj-hWGhl7yetflrmhMKr9KRi8=/2020/02/06/1581020149809.jpg",
+        "publishedAt": "2020-02-06T23:25:03Z",
+        "content": "Hundreds of powerful people predominately men have been accused of sexual offenses since the #MeToo movement went viral in 2017. After Jeffrey Epstein's death, only five of them currently face charges, while six others have been convicted.\r\nWhy it matters: Th… [+442 chars]"
+    }, {
+        "source": {
+            "id": "axios",
+            "name": "Axios"
+        },
+        "author": "Sarah Stone",
+        "title": "OneWeb launches batch of internet-beaming satellites to orbit",
+        "description": "The company hopes to bring broadband to millions of underserved users around the world.",
+        "url": "https://www.axios.com/oneweb-launches-internet-beaming-satellites-15ee3d73-a2de-457a-879a-aa59012b3e52.html",
+        "urlToImage": "https://images.axios.com/x2zw35VW6gCbhaUa_SQa3BQ-krs=/2020/02/06/1581027850726.jpg",
+        "publishedAt": "2020-02-06T23:19:17Z",
+        "content": "OneWeb a company hoping to bring broadband to millions of underserved users around the world launched 34 of its internet-beaming satellites to orbit on Thursday.\r\nWhy it matters: A number of companies, including SpaceX and Amazon, are also planning to launch … [+1524 chars]"
+    }, {
+        "source": {
+            "id": "axios",
+            "name": "Axios"
+        },
+        "author": "Axios Staff",
+        "title": "Coronavirus: Cruise ships quarantined off Japan and Hong Kong",
+        "description": "A second ship has been quarantined because of virus concerns.",
+        "url": "https://www.axios.com/coronavirus-ship-quarantined-10-infected-japan-2ec35f8c-e340-4c25-8838-32293371da8c.html",
+        "urlToImage": "https://images.axios.com/ZJNiOcLk4YQXULZ-wdm0tHDcRdc=/2020/02/05/1580882684358.jpg",
+        "publishedAt": "2020-02-05T07:06:55Z",
+        "content": "10 people who tested positive to the novel coronavirus while on a cruise ship quarantined off Japan have been taken to hospital, but everyone else must remain aboard for now, a Japanese government spokesman said Wednesday.\r\nDetails: Some 3,700 people were abo… [+1637 chars]"
+    }, {
+        "source": {
+            "id": "axios",
+            "name": "Axios"
+        },
+        "author": "Alex Thompson",
+        "title": "Coronavirus death toll reaches 636",
+        "description": "See where it has spread.",
+        "url": "https://www.axios.com/coronavirus-latest-developments-8b8990c4-6762-494a-8ee0-5091746bda9b.html",
+        "urlToImage": "https://images.axios.com/Rt1tFd0dfcjw-iVlzGpse_GY_eY=/2020/02/07/1581036861366.png",
+        "publishedAt": "2020-01-29T00:54:52Z",
+        "content": "Vladimir Putin has gone to extreme lengths to control the flow of information in Russia, but theres one step he hasnt dared take: shutting down YouTube.\r\nWhy it matters: One of Putins first initiatives upon taking office 20 years ago was to bring Russias inde… [+224 chars]"
+    }]
+}
